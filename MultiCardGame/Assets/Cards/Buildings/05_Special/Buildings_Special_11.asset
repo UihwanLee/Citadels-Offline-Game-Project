@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b100ec72bbf93419ad0a7c642648f2, type: 3}
+  m_Name: Buildings_Special_11
+  m_EditorClassIdentifier: 
+  cardName: "\uCC9C\uBB38\uB300"
+  cardName_English: 
+  cardNumber: 0
+  price: 5
+  cardType: 1
+  cardLocate: 0
+  buildType: 5
+  cardImage: {fileID: 21300000, guid: 8a6d500a5bef1d44593e56639ebfa777, type: 3}
+  cardInfo: "\uC77C\uBC18 \uD589\uB3D9\uC744 \uD560 \uB54C, '\uAE08\uD654 \uC5BB\uAE30'\uC640
+    '\uCE74\uB4DC \uC5BB\uAE30' \uBAA8\uB450 \uC0AC\uC6A9\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
