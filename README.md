@@ -19,12 +19,12 @@
 
 > 게임 이미지
 
-![작업진행사진](./작업진행사진/01_초기안.png)
+![01_초기안](https://user-images.githubusercontent.com/36596037/174091847-b400821c-2d7b-4181-a4ce-936e18c40b74.PNG)
 
-![작업진행사진](./작업진행사진/03_초기안.png)
+![03_초기안](https://user-images.githubusercontent.com/36596037/174091908-6e4d214e-f4ca-42e7-9051-2b720387c333.PNG)
 
-![작업진행사진](./작업진행사진/05_초기안.png)
+![05_초기안](https://user-images.githubusercontent.com/36596037/174091945-4e9aafce-2e14-4ee6-877f-5efa76a0c27c.PNG)
 
 > 게임 스크립트 구성도
 
-![구성도&설계도](./구성도&설계도/Citadels 코드 설계도.drawio.png)
+![Citadels 코드 설계도 drawio](https://user-images.githubusercontent.com/36596037/174091991-680d0cac-ec1d-4a9b-8928-39a9acc1df7d.png)
