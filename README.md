@@ -25,6 +25,9 @@
 ![GamePlay2](https://user-images.githubusercontent.com/36596037/174092856-5daff200-4da5-47de-ba9e-323195c9cfd0.png)
 
 
-> 게임 스크립트 구성도
+> 게임 프로젝트 구성도
 
-![Citadels 코드 설계도 drawio](https://user-images.githubusercontent.com/36596037/174091991-680d0cac-ec1d-4a9b-8928-39a9acc1df7d.png)
+ * 스크립트 구성도
+
+![Citadels 코드 설계도 drawio](https://user-images.githubusercontent.com/36596037/174120084-953a94e3-3267-455c-91d1-0dee66ecbcef.png)
+
