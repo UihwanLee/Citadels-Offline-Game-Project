@@ -1,0 +1,20 @@
+{
+  "name": "node-extend",
+  "version": "0.2.0",
+  "description": "extend for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brighthas/extend.git"
+  },
+  "keywords": [
+    "extend",
+    "node.js",
+    "javascript"
+  ],
+  "author": "brighthas",
+  "license": "MIT"
+}
