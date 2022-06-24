@@ -1,5 +1,5 @@
-# Mulit-Card-Game-Project
-### 보드 카드 게임 게임프로젝트입니다.
+# Citadels-Offline-Game-Project
+### 보드 카드 게임 <시타델> 오프라인 게임프로젝트입니다.
 
 > 게임 이름 : '시타델' (시타델 보드 게임)
 
