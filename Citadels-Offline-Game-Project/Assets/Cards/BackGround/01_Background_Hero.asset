@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b100ec72bbf93419ad0a7c642648f2, type: 3}
+  m_Name: 01_Background_Hero
+  m_EditorClassIdentifier: 
+  cardName: "\uC601\uC6C5 \uCE74\uB4DC"
+  cardName_English: 
+  cardNumber: -1
+  price: 0
+  cardType: 3
+  cardLocate: 0
+  buildType: 0
+  cardImage: {fileID: 21300000, guid: 372ba047f5884e74380803d3559687a5, type: 3}
+  cardInfo: "\uC601\uC6C5 \uCE74\uB4DC\uC785\uB2C8\uB2E4."

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b100ec72bbf93419ad0a7c642648f2, type: 3}
+  m_Name: Buildings_Basics_Military_05
+  m_EditorClassIdentifier: 
+  cardName: "\uAE30\uC0AC\uC758 \uC18C\uC6B8"
+  cardName_English: 
+  cardNumber: 0
+  price: 6
+  cardType: 1
+  buildType: 4
+  cardImage: {fileID: 21300000, guid: e9f81a0f272a3204db241dd65b486f35, type: 3}
+  cardInfo: "\uAE30\uBCF8 \uAD70\uC0AC \uAC74\uBB3C\uC785\uB2C8\uB2E4."

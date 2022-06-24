@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b100ec72bbf93419ad0a7c642648f2, type: 3}
+  m_Name: 04_Hero_King
+  m_EditorClassIdentifier: 
+  cardName: "\uC655"
+  cardName_English: King
+  cardNumber: 4
+  cardType: 3
+  buildType: 0
+  cardImage: {fileID: 21300000, guid: 8621e81cd0803d047a7e376d7761d68b, type: 3}
+  cardInfo: "\uC655\uAD00\uC744 \uAC00\uC838\uC635\uB2C8\uB2E4. \uC790\uAE30 \uB3C4\uC2DC\uC758
+    \uADC0\uC871 \uAC74\uBB3C \uC218\uB9CC\uD07C \uAE08\uD654\uB97C \uBC1B\uC2B5\uB2C8\uB2E4."
