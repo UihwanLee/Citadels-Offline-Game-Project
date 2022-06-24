@@ -1,27 +1,12 @@
 {
-  "name": "com.unity.xr.legacyinputhelpers",
-  "displayName": "XR Legacy Input Helpers",
-  "version": "2.1.7",
-  "unity": "2019.4",
-  "category": "XR",
-  "description": "This package includes the tracked pose driver for the legacy input system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to track input devices, the XR Bindings Seeding Tool adds a menu item under the 'Assets' menu which populates the Input Asset with Unity's crossplatform Input Bindings",
-  "keywords": [
-    "TPD",
-    "Tracked Pose Driver",
-    "XR",
-    "Input",
-    "Helpers"
-  ],
+  "name": "com.unity.ugui",
+  "displayName": "Unity UI",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "keywords": ["UI", "ugui", "Unity UI", "Canvas"],
+  "description": "Unity UI is a UI toolkit for developing user interfaces for games and applications. It is a GameObject-based UI system that uses Components and the Game View to arrange, position, and style user interfaces. ​ You cannot use Unity UI to create or change user interfaces in the Unity Editor.",
   "dependencies": {
-    "com.unity.modules.vr": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
-  },
-  "upmCi": {
-    "footprint": "7f07cda2e358d329f4abba3d857f265a063f5ed6"
-  },
-  "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git",
-    "type": "git",
-    "revision": "b2024928b8140a10ad43aeb5824d2f08bb8796bc"
-  }
+	"com.unity.modules.ui": "1.0.0",
+  "com.unity.modules.imgui":"1.0.0" 
+   }
 }
